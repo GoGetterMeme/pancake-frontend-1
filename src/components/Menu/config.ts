@@ -12,20 +12,20 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.pancakeswap.finance/#/swap',
+        href: 'https://fervent-heisenberg-06b5b2.netlify.app/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.pancakeswap.finance/#/pool',
+        href: 'https://stupefied-mestorf-0f8c0c.netlify.app/#/pool',
       },
-      {
-        label: 'LP Migration',
-        href: 'https://v1exchange.pancakeswap.finance/#/migrate',
-      },
-      {
-        label: 'V1 Liquidity (Old)',
-        href: 'https://v1exchange.pancakeswap.finance/#/pool',
-      },
+//       {
+//         label: 'LP Migration',
+//         href: 'https://v1exchange.pancakeswap.finance/#/migrate',
+//       },
+//       {
+//         label: 'V1 Liquidity (Old)',
+//         href: 'https://v1exchange.pancakeswap.finance/#/pool',
+//       },
     ],
   },
   {
