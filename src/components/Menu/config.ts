@@ -16,7 +16,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Liquidity',
-        href: 'https://stupefied-mestorf-0f8c0c.netlify.app/#/pool',
+        href: 'https://fervent-heisenberg-06b5b2.netlify.app/#/pool',
       },
 //       {
 //         label: 'LP Migration',
